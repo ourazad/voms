@@ -78,3 +78,92 @@ body {
 }
 
 /*----------------------------------end menu part-------------------------------------*/
+
+.si_left {
+	float: left;
+}
+.si_right {
+	float: right;
+}
+.si_mid {
+	background-color: #334E72;
+	opacity: 0.9;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #000;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.si {
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px 0px 20px 0px;
+	border-radius: 10px;
+	border: 0px;
+	border: inset 1px solid#000;
+	box-shadow: 0px 0px 10px #000;
+	text-align: center;
+	font-size: 24px;
+	font-style: inherit;
+	font-weight: bolder;
+	color: #000000;
+}
+.si_from {
+	padding: 0px 0px 0px 130px;
+}
+
+.s_titel {
+	cursor: pointer;
+	color: #000;
+	display: block;
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: 900;
+	font-style: italic;
+}
+.s_input_field {
+	width: 400px;
+	height: 40px;
+	border-radius: 10px;
+	border: 0px;
+	border: inset 1px solid#000;
+	padding-left: 10px;
+	background: #ffffff;
+	color: #000;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 10px;
+	box-shadow: 0px 0px 5px #18365D;
+}
+.s_input_field:hover {
+	box-shadow: 0px 0px 5px #18A9F0;
+}
+.s_input_field:focus {
+	box-shadow: 0px 0px 5px #000000;
+}
+.s_submit {
+	width: 400px;
+	height: 40px;
+	border-radius: 10px;
+	border: 0px;
+	border: inset 1px solid#000;
+	background: #1E3C64;
+	color: #000;
+	font-size: 16px;
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	box-shadow: 0px 0px 5px #000;
+}
+.s_submit:hover {
+	box-shadow: 0px 0px 5px #18A9F0;
+}
+.s_submit:focus {
+	box-shadow: 0px 0px 5px #000000;
+}
+
+/*----------------------------------end login part-------------------------------------*/
+
