@@ -1,0 +1,80 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	outline: 0px;
+}
+img {
+	border: 0px;
+}
+ol, ul {
+	list-style-type: none;
+}
+clr {
+	clear: both;
+}
+a, a:hover, a:focus {
+	text-decoration: none;
+	outline: 0;
+}
+body {
+	background:#E7E7E8;
+	/*--background-image: url(../images/bbg.jpg);
+	background-size: cover;--*/
+}
+/*----------------------------------------------------------end over all----------------------------------*/
+
+#voms_block_header{
+	background: #1E3C64;
+}
+.logo a{
+	color: #FFFFFF;
+}
+.logo{
+	padding-bottom: 10px;
+}
+.search_ac ul li {
+	float: right;
+	padding-right: 10px;
+	padding-top: 40px;
+	padding-bottom: 10px;
+	font-size: 14px;
+}
+.search_ac ul li a {
+	color: #ffffff;
+}
+.search_ac li {
+	list-style-type: none
+}
+.search_ac li a {
+	opacity: 0.8;
+}
+.search_ac li a:hover {
+	opacity: 2;
+}
+/*----------------------------------end header part-------------------------------------*/
+
+#voms_block_menu{
+	background: #18365D;
+}
+.menu{
+	padding-left:0px;
+}
+#voms_block_menu .navbar-default {
+	background-color: inherit;
+	border: none;
+	margin-bottom: 0px;
+}
+#voms_block_menu .nav li a:hover {
+	background: #ffffff;
+}
+#voms_block_menu .nav li{
+	padding-right: 25px;
+
+}
+.navbar-default .navbar-nav > li > a {
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+/*----------------------------------end menu part-------------------------------------*/
