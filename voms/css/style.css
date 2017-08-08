@@ -166,4 +166,33 @@ body {
 }
 
 /*----------------------------------end login part-------------------------------------*/
+/*----------------------------------start admin-------------------------------------*/
+.a {
+    color: #36C;
+	background-color:#FFF;
+	margin-left:20px;
+	height:auto;
+}
 
+.b {
+	color: #36C;
+	background-color:#FFF;
+	margin-left:20px;
+	height:auto;
+}
+
+.c {
+	color: #36C;
+	background-color:#FFF;
+	margin-left:20px;
+	height:auto;
+}
+
+.d {
+	color: #36C;
+	background-color:#FFF;
+	margin-left:20px;
+	height:auto;
+}
+
+/*----------------------------------end admin-------------------------------------*/
